@@ -196,7 +196,7 @@ def birth_year(df):
         print("\nThis took %s seconds." % (time.time() - start_time))
         print('-'*40)
 
-    #Display 5 rows of raw data 
+    #Display 5 rows of raw data and display the rest of 5 rows if requested
 def display_data (df):
     start=0
     end=5
