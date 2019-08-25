@@ -231,3 +231,5 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+    #End - the project provides analysis on Bikeshare data and shows some time, station and user related statistics
