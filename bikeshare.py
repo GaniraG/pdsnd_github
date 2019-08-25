@@ -29,8 +29,7 @@ def get_filters():
             print ('That\'s not a valid city. Please try again!')
         finally:
             print('\nAttempted Input\n')
-        #finally:
-           # print('\nAttempted Input\n')
+        
           
     # TO DO: get user input for month (all, january, february, ... , june)
     while True:
