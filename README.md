@@ -1,4 +1,17 @@
 
+Udacity Programming for Data Science
+
+### Ganira Gozalova
+
+The repo contains a project created for Udacity Programming for Data Science
+
+### Date created
+
+29th July 2019
+
+### Project Title
+
+Project 2 - Introduction to Python
 
 ### Overview
 
